@@ -15,7 +15,7 @@ export class AppMenuComponent implements OnInit {
                 // label: 'Banking',
                 label: 'MAIN',
                 icon: 'pi pi-fw pi-chart-bar',
-                routerLink: ['/dashboard-banking']
+                routerLink: ['/main']
             },
             {
                 label: 'MANUAL',
